@@ -1,0 +1,30 @@
+{
+  "title": "Multi-Tenant AI Media Platform — Provider-Independent Gateway",
+  "theme": "dark",
+  "nodes": [
+    {"id": "client",  "label": "SDK / REST\nClients",     "col": 0, "row": 1, "color": "#94a3b8"},
+    {"id": "auth",    "label": "Supabase\nJWT + RBAC",     "col": 1, "row": 0, "color": "#f59e0b"},
+    {"id": "gateway", "label": "AI Gateway\n(Control Plane)", "col": 1, "row": 1, "color": "#f472b6"},
+    {"id": "entitle", "label": "Entitlement\n+ Credits",    "col": 1, "row": 2, "color": "#facc15"},
+    {"id": "engine",  "label": "AI Engines\nLyrics·Music·Voice·Video", "col": 2, "row": 1, "color": "#38bdf8"},
+    {"id": "registry","label": "Provider\nRegistry",       "col": 3, "row": 1, "color": "#a78bfa"},
+    {"id": "queue",   "label": "Celery + Redis\nJob Queue", "col": 4, "row": 1, "color": "#fb7185"},
+    {"id": "gpu",     "label": "RunPod\nGPU Workers",       "col": 5, "row": 1, "color": "#34d399"},
+    {"id": "adapters","label": "Adapters:\nAudioCraft·Amphion·OpenVoice·RVC·ComfyUI", "col": 5, "row": 0, "color": "#a78bfa"},
+    {"id": "store",   "label": "Artifact\nStore",          "col": 5, "row": 2, "color": "#22d3ee"},
+    {"id": "db",      "label": "Postgres\nState of Record", "col": 3, "row": 2, "color": "#60a5fa"}
+  ],
+  "edges": [
+    {"from": "client",   "to": "gateway",  "label": "request"},
+    {"from": "auth",     "to": "gateway",  "label": "verify"},
+    {"from": "gateway",  "to": "entitle",  "label": "check + hold"},
+    {"from": "gateway",  "to": "engine",   "label": "dispatch"},
+    {"from": "engine",   "to": "registry", "label": "resolve"},
+    {"from": "registry", "to": "queue",    "label": "enqueue"},
+    {"from": "registry", "to": "adapters", "label": "adapter"},
+    {"from": "queue",    "to": "gpu",      "label": "run"},
+    {"from": "gpu",      "to": "store",    "label": "artifact"},
+    {"from": "gateway",  "to": "db",       "label": "persist job"},
+    {"from": "entitle",  "to": "db",       "label": "wallet"}
+  ]
+}
