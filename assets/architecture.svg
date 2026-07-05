@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1722 660" width="1722" height="660" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1722" height="660" fill="#0d1117"/>
+<text x="861" y="38" fill="#e6edf3" font-size="26" font-weight="700" text-anchor="middle">Multi-Tenant AI Media Platform — Provider-Independent Gateway</text>
+<path id="edge0" d="M 250.0 361.0 L 368.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 250.0 361.0 L 368.0 361.0" fill="none" stroke="#94a3b8" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="368.0,361.0 360.1,365.3 360.1,356.7" fill="#94a3b8"/>
+<circle r="4.2" fill="#94a3b8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge0"/></animateMotion></circle>
+<circle r="4.2" fill="#94a3b8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge0"/></animateMotion></circle>
+<circle r="4.2" fill="#94a3b8" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge0"/></animateMotion></circle>
+<rect x="277.8" y="350.0" width="62.4" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="309.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">request</text>
+<path id="edge1" d="M 447.0 228.0 L 447.0 324.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 447.0 228.0 L 447.0 324.0" fill="none" stroke="#f59e0b" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="447.0,324.0 442.7,316.1 451.3,316.1" fill="#f59e0b"/>
+<circle r="4.2" fill="#f59e0b" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge1"/></animateMotion></circle>
+<circle r="4.2" fill="#f59e0b" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge1"/></animateMotion></circle>
+<circle r="4.2" fill="#f59e0b" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge1"/></animateMotion></circle>
+<rect x="419.4" y="265.0" width="55.2" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="447.0" y="279.0" fill="#8b949e" font-size="12" text-anchor="middle">verify</text>
+<path id="edge2" d="M 447.0 398.0 L 447.0 494.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 447.0 398.0 L 447.0 494.0" fill="none" stroke="#f472b6" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="447.0,494.0 442.7,486.1 451.3,486.1" fill="#f472b6"/>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge2"/></animateMotion></circle>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge2"/></animateMotion></circle>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge2"/></animateMotion></circle>
+<rect x="397.8" y="435.0" width="98.4" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="447.0" y="449.0" fill="#8b949e" font-size="12" text-anchor="middle">check + hold</text>
+<path id="edge3" d="M 526.0 361.0 L 644.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 526.0 361.0 L 644.0 361.0" fill="none" stroke="#f472b6" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="644.0,361.0 636.1,365.3 636.1,356.7" fill="#f472b6"/>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge3"/></animateMotion></circle>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge3"/></animateMotion></circle>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge3"/></animateMotion></circle>
+<rect x="550.2" y="350.0" width="69.6" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="585.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">dispatch</text>
+<path id="edge4" d="M 802.0 361.0 L 920.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 802.0 361.0 L 920.0 361.0" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="920.0,361.0 912.1,365.3 912.1,356.7" fill="#38bdf8"/>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge4"/></animateMotion></circle>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge4"/></animateMotion></circle>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge4"/></animateMotion></circle>
+<rect x="829.8" y="350.0" width="62.4" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="861.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">resolve</text>
+<path id="edge5" d="M 1078.0 361.0 L 1196.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1078.0 361.0 L 1196.0 361.0" fill="none" stroke="#a78bfa" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1196.0,361.0 1188.1,365.3 1188.1,356.7" fill="#a78bfa"/>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge5"/></animateMotion></circle>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge5"/></animateMotion></circle>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge5"/></animateMotion></circle>
+<rect x="1105.8" y="350.0" width="62.4" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1137.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">enqueue</text>
+<path id="edge6" d="M 1078.0 336.7 L 1472.0 215.3" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1078.0 336.7 L 1472.0 215.3" fill="none" stroke="#a78bfa" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1472.0,215.3 1465.7,221.8 1463.2,213.5" fill="#a78bfa"/>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge6"/></animateMotion></circle>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge6"/></animateMotion></circle>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge6"/></animateMotion></circle>
+<rect x="1243.8" y="265.0" width="62.4" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1275.0" y="279.0" fill="#8b949e" font-size="12" text-anchor="middle">adapter</text>
+<path id="edge7" d="M 1354.0 361.0 L 1472.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1354.0 361.0 L 1472.0 361.0" fill="none" stroke="#fb7185" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1472.0,361.0 1464.1,365.3 1464.1,356.7" fill="#fb7185"/>
+<circle r="4.2" fill="#fb7185" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge7"/></animateMotion></circle>
+<circle r="4.2" fill="#fb7185" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge7"/></animateMotion></circle>
+<circle r="4.2" fill="#fb7185" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge7"/></animateMotion></circle>
+<rect x="1396.2" y="350.0" width="33.6" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1413.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">run</text>
+<path id="edge8" d="M 1551.0 398.0 L 1551.0 494.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1551.0 398.0 L 1551.0 494.0" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1551.0,494.0 1546.7,486.1 1555.3,486.1" fill="#34d399"/>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge8"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge8"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge8"/></animateMotion></circle>
+<rect x="1516.2" y="435.0" width="69.6" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1551.0" y="449.0" fill="#8b949e" font-size="12" text-anchor="middle">artifact</text>
+<path id="edge9" d="M 526.0 385.3 L 920.0 506.7" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 526.0 385.3 L 920.0 506.7" fill="none" stroke="#f472b6" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="920.0,506.7 911.2,508.5 913.7,500.2" fill="#f472b6"/>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge9"/></animateMotion></circle>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge9"/></animateMotion></circle>
+<circle r="4.2" fill="#f472b6" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge9"/></animateMotion></circle>
+<rect x="677.4" y="435.0" width="91.2" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="723.0" y="449.0" fill="#8b949e" font-size="12" text-anchor="middle">persist job</text>
+<path id="edge10" d="M 526.0 531.0 L 920.0 531.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 526.0 531.0 L 920.0 531.0" fill="none" stroke="#facc15" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="920.0,531.0 912.1,535.3 912.1,526.7" fill="#facc15"/>
+<circle r="4.2" fill="#facc15" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge10"/></animateMotion></circle>
+<circle r="4.2" fill="#facc15" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge10"/></animateMotion></circle>
+<circle r="4.2" fill="#facc15" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge10"/></animateMotion></circle>
+<rect x="695.4" y="520.0" width="55.2" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="723.0" y="534.0" fill="#8b949e" font-size="12" text-anchor="middle">wallet</text>
+<rect x="92.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#94a3b8" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="106.0" y="322.0" width="130" height="4" rx="2" fill="#94a3b8"/>
+<text x="171.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">SDK / REST</text>
+<text x="171.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Clients</text>
+<rect x="368.0" y="154.0" width="158" height="74" rx="14" fill="#161b22" stroke="#f59e0b" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="382.0" y="152.0" width="130" height="4" rx="2" fill="#f59e0b"/>
+<text x="447.0" y="187.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Supabase</text>
+<text x="447.0" y="204.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">JWT + RBAC</text>
+<rect x="368.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#f472b6" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="382.0" y="322.0" width="130" height="4" rx="2" fill="#f472b6"/>
+<text x="447.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">AI Gateway</text>
+<text x="447.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">(Control Plane)</text>
+<rect x="368.0" y="494.0" width="158" height="74" rx="14" fill="#161b22" stroke="#facc15" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="382.0" y="492.0" width="130" height="4" rx="2" fill="#facc15"/>
+<text x="447.0" y="527.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Entitlement</text>
+<text x="447.0" y="544.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">+ Credits</text>
+<rect x="644.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#38bdf8" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="658.0" y="322.0" width="130" height="4" rx="2" fill="#38bdf8"/>
+<text x="723.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">AI Engines</text>
+<text x="723.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Lyrics·Music·Voice·Video</text>
+<rect x="920.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#a78bfa" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="934.0" y="322.0" width="130" height="4" rx="2" fill="#a78bfa"/>
+<text x="999.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Provider</text>
+<text x="999.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Registry</text>
+<rect x="1196.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#fb7185" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1210.0" y="322.0" width="130" height="4" rx="2" fill="#fb7185"/>
+<text x="1275.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Celery + Redis</text>
+<text x="1275.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Job Queue</text>
+<rect x="1472.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#34d399" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1486.0" y="322.0" width="130" height="4" rx="2" fill="#34d399"/>
+<text x="1551.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">RunPod</text>
+<text x="1551.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">GPU Workers</text>
+<rect x="1472.0" y="154.0" width="158" height="74" rx="14" fill="#161b22" stroke="#a78bfa" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1486.0" y="152.0" width="130" height="4" rx="2" fill="#a78bfa"/>
+<text x="1551.0" y="187.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Adapters:</text>
+<text x="1551.0" y="204.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">AudioCraft·Amphion·OpenVoice·RVC·ComfyUI</text>
+<rect x="1472.0" y="494.0" width="158" height="74" rx="14" fill="#161b22" stroke="#22d3ee" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1486.0" y="492.0" width="130" height="4" rx="2" fill="#22d3ee"/>
+<text x="1551.0" y="527.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Artifact</text>
+<text x="1551.0" y="544.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Store</text>
+<rect x="920.0" y="494.0" width="158" height="74" rx="14" fill="#161b22" stroke="#60a5fa" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="934.0" y="492.0" width="130" height="4" rx="2" fill="#60a5fa"/>
+<text x="999.0" y="527.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Postgres</text>
+<text x="999.0" y="544.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">State of Record</text>
+</svg>
